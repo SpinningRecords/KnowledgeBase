@@ -23,7 +23,7 @@ To start configuring AdGuard for Mac, you need to click the gear in the upper ri
 
 ## Genel Tercihler
 
-![General](https://cdn.adtidy.org/content/kb/ad_blocker/mac/General.jpg)
+![Genel](https://cdn.adtidy.org/content/kb/ad_blocker/mac/General.jpg)
 
 Descriptions under option titles seem self-explanatory, but still:
 
@@ -37,9 +37,9 @@ Descriptions under option titles seem self-explanatory, but still:
 
 From this same window you can access the above-mentioned Allowlist, to which you can add websites you do not wish AdGuard to filter. Just click the corresponding button located at the bottom of the window.
 
-## Filters
+## Filtreler
 
-![Filters](https://cdn.adtidy.org/content/kb/ad_blocker/mac/Filters.jpg)
+![Filtreler](https://cdn.adtidy.org/content/kb/ad_blocker/mac/Filters.jpg)
 
 Filters are the main driving force behind the Ad blocker module. To understand how filtering works, get acquainted with our [comprehensive article](https://adguard.com/en/blog/how-ad-blocking-is-done.html). But in essence, filter lists are sets of rules written in a special language, and your ad blocker is an interpreter of these rules who then implements them. As a result, you stop seeing ads on your web pages and life gets lots better.
 

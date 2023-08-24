@@ -25,7 +25,7 @@ Safari için AdGuard, App Store'da sunulan ücretsiz bir uygulamadır. Cihazın�
 
 :::note
 
-Not all extensions are required for AdGuard for Safari to function correctly. For instance, checking the *Icon* extension enables the icon in the tray menu. However, we recommend enabling all of them.
+Not all extensions are required for AdGuard for Safari to function correctly. Örneğin, *Simge* uzantısını kontrol etmek, arama çubuğunun yanındaki simgeyi etkinleştirir. However, we recommend enabling all of them.
 
 :::
 

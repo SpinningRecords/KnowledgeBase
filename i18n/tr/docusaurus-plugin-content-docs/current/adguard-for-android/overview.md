@@ -179,7 +179,7 @@ If you see an app that shouldn't be using the Internet at all or an app that you
 
 Browsing Security protects you from visiting phishing and malicious websites. It also warns you about potential malware.
 
-![Browsing Security *mobile_border](https://cdn.adtidy.org/blog/new/1y6a8browsing_security.png)
+![Gezinti Koruması *mobile_border](https://cdn.adtidy.org/blog/new/1y6a8browsing_security.png)
 
 If you're about to visit a dangerous website, Browsing Security will show you the following warning:
 
@@ -272,7 +272,7 @@ This section displays statistics on the device resources used by AdGuard during 
 
 ## Settings
 
-### General
+### Genel
 
 This section helps you manage the appearance and behavior of the app: you can set the color theme and language, manage notifications, and more. If you want to help the AdGuard team detect app crashes and research usability, you can enable *Auto-report crashes* and *Send technical and interaction data*.
 
@@ -324,7 +324,7 @@ This section contains the list of apps for which AdGuard filters HTTPS traffic. 
 
 This setting allows you to manage websites for which AdGuard should filter HTTPS traffic.
 
-HTTPS filtering allows AdGuard to filter the content of requests and responses, but we never collect or store this data. However, to increase security, we [exclude websites that contain potentially sensitive information from HTTPS filtering](/general/https-filtering/what-is-https-filtering/#financial-websites-and-websites-with-sensitive-personal-data).
+HTTPS filtreleme, AdGuard'ın isteklerin ve yanıtların içeriğini filtrelemesini sağlar, ancak bu verileri asla toplamaz veya saklamayız. However, to increase security, we [exclude websites that contain potentially sensitive information from HTTPS filtering](/general/https-filtering/what-is-https-filtering/#financial-websites-and-websites-with-sensitive-personal-data).
 
 You can also add websites that you consider necessary to exclusions by selecting one of the modes:
 
@@ -357,7 +357,7 @@ The *Local VPN* mode doesn't allow AdGuard to be used simultaneously with other 
 
 - *Manual proxy* involves setting up a proxy server on a specific port, which can then be configured in Wi-Fi settings. This mode requires root access for Android 10 and above.
 
-#### Filters
+#### Filtreler
 
 AdGuard blocks ads, trackers, and annoyances by applying rules from its filters. Most features from the *Protection* section are powered by [AdGuard filters](/general/ad-filtering/adguard-filters/#adguard-filters). If you enable *Basic protection*, it will automatically turn on the AdGuard Base filter and AdGuard Mobile Ads filter. And vice versa: if you turn off both filters, *Basic protection* will also be disabled.
 
@@ -400,7 +400,7 @@ In this section, you can find information about your license and manage it:
 
 Use this section if you have any questions or suggestions regarding AdGuard for Android. We recommend consulting *[FAQ](https://adguard.com/support/adguard_for_android.html)* or this knowledge base before contacting support.
 
-![Support *mobile_border](https://cdn.adtidy.org/blog/new/cz55usupport.png)
+![Destek *mobile_border](https://cdn.adtidy.org/blog/new/cz55usupport.png)
 
 If you notice a missed ad, please report it via *Report incorrect blocking*.
 

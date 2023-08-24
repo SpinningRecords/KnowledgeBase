@@ -29,7 +29,7 @@ Keep all content blockers enabled for the best filtering quality.
 
 :::
 
-### Filters {#filters}
+### Filtreler {#filters}
 
 Content blockers' work is based on filters, also sometimes referred to as filter lists. Each filter is a list of filtering rules. If you have an enabled ad blocker when browsing, it constantly checks the visited pages and elements on them against these filtering rules, and blocks anything that matches. Reklamları, izleyicileri ve daha fazlasını engellemek için kurallar geliştirilmiştir.
 
@@ -55,7 +55,7 @@ Learn [how to create your own ad filters](/general/ad-filtering/create-own-filte
 
 ![Kullanıcı kuralları ekranı *mobile_border](https://cdn.adtidy.org/public/Adguard/kb/iOS/features/user_rules_en.jpeg)
 
-### Allowlist {#allowlist}
+### İzin listesi {#allowlist}
 
 *Safari koruması* ekranının üçüncü bölümü. Belirli bir sitede reklam engellemeyi devre dışı bırakmak istiyorsanız, İzin listesi size yardımcı olacaktır. İstisnalara alan adları ve alt alt alan adları eklemenize olanak tanır. iOS için AdGuard'ın bir İçe ve Dışa aktarma özelliği vardır, böylece bir cihazdaki izin listesi kolayca başka bir cihaza aktarılabilir.
 
@@ -238,6 +238,6 @@ This option will reset all your settings.
 
 Use this option to contact support, report a missed ad (although we advise to use the Assistant or AdGuard's Safari Web extension for your own convenience), export logs or to make a feature request.
 
-- **About**
+- **Hakkında**
 
 Contains the current version of the app and an assortment of rarely needed options and links.
